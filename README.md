@@ -1,2 +1,2 @@
-# davidlomas.co.uk
+# davidlomas.github.io
 my personal webiste
