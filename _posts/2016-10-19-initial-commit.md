@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "I managed to put a crapp site up"
+title: "A lovely blog post."
 date: 2014-04-30
 ---
 
-Well. Finally got around to putting this website together.
+A lovely blog post.
