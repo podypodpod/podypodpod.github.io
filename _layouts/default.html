@@ -1,29 +1,33 @@
+---
+layout: compress
+---
+
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:david@davidlomas.co.uk">email</a></li>
-	        		<li><a href="https://github.com/podypodpod">github.com/podypodpod</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<html lang="en">
+
+	<head>
+		{% include head.html %}
+	</head>
+
+	<body>
+
+		{% include header.html %}
+
+		<main>
+			{{ content | replace: '&#8617;', '&#8617;&#xfe0e;' }}
+		</main>
+
+		{% include footer.html %}
+
+		{% if page.path contains '_posts' %}
+
+			{% if content contains 'reversefootnote' %}
+				<aside class="note"></aside>
+				<script async src="{{site.baseurl}}/assets/footnotes.js"></script>
+			{% endif %}
+
+		{% endif %}
+
+	</body>
+
+</html>
