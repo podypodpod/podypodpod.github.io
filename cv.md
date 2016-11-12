@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: CV
 ---
-
-Currently working at CNS as a java developer in the maritime industry, previously java/javascript work. equaly intrested in both. I just like solving problems.
 
 ### Lil bit of CV
 
