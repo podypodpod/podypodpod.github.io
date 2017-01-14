@@ -3,11 +3,15 @@ layout: page
 title: Stuff I gone done
 ---
 
-##### Software developer. CNS. May 2016 - present
+##### Snowflake Software. January 2017 - Present
+
+Java backend development, taking multiple sources of information in the aviation industry, applying matching algorithms and providing it as a service as an API.
+
+##### CNS. May - December 2016
 
 Java backend development on a wide range of projects in the maritime industry. Including real time event driven software backed with spring integration.
 
-##### Software developer IBM. September 2015 – May 2016
+##### IBM. September 2015 – May 2016
 
 Full stack development for a SAAS API testing tool
 Developing domain-driven backed implementing CQRS strategies in Java, using a micro-service approach
