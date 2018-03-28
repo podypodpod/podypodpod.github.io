@@ -1,1 +1,3 @@
-# My personal website, feel free to email me with anything david@davidlomas.co.uk
+# My personal website, podypodpod.github.io or davidlomas.co.uk
+
+Based on https://github.com/heiswayi/the-plain/
