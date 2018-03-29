@@ -5,7 +5,7 @@ title: Stuff I gone done
 
 ##### Snowflake Software. January 2017 - Present
 
-Java backend development, taking multiple sources of information in the aviation industry, applying matching algorithms and providing it as a service as an API.
+Mainly Java backend development, taking multiple sources of information in the aviation industry, applying matching algorithms creating a central place for aviation data. Providing this as an API or as an in house solution. Using docker microservices running on kubernetes with kafka in between creating a pipeline for the data.
 
 ##### CNS. May - December 2016
 
