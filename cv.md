@@ -7,7 +7,7 @@ title: Stuff I gone done
 
 - Full stack (devops).
 - Improving communication in air traffic mangement. Taking multiple sources of information in the aviation industry, applying matching algorithms creating a central place for aviation data.
-- Providing this data via APIs or as an in house solution. 
+- Providing this data via public APIs or as an in house solution. 
 - Using docker microservices running on kubernetes with kafka in between creating a pipeline for the data.
 
 Side projects at snowflake:
