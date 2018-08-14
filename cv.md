@@ -5,12 +5,10 @@ title: Stuff I gone done
 
 ##### Snowflake Software. January 2017 - Present
 
-Full stack (devops).
-
-Improving communication in air traffic mangement. Taking multiple sources of information in the aviation industry, applying matching algorithms creating a central place for aviation data.
-
-Providing this data via APIs or as an in house solution. 
-Using docker microservices running on kubernetes with kafka in between creating a pipeline for the data.
+- Full stack (devops).
+- Improving communication in air traffic mangement. Taking multiple sources of information in the aviation industry, applying matching algorithms creating a central place for aviation data.
+- Providing this data via APIs or as an in house solution. 
+- Using docker microservices running on kubernetes with kafka in between creating a pipeline for the data.
 
 Side projects at snowflake:
 
@@ -20,9 +18,8 @@ Side projects at snowflake:
 
 ##### CNS. May - December 2016
 
-Java backend development on a wide range of projects in the maritime industry
-
-Real time event driven software
+- Java backend development on a wide range of projects in the maritime industry
+- Real time event driven software
 
 ##### IBM. September 2015 – May 2016
 
