@@ -12,7 +12,7 @@ title: Stuff I gone done
 
 Side projects at snowflake:
 
- - Hipchat acronym bot that will reply with the lijely answers (aviation acronyms are particularily bad)
+ - Hipchat acronym bot that will reply with the likely answers (aviation acronyms are particularily bad)
  - Auto generating architecture diagram via YAML deployment files using DotGraph
  - Various scripts that will notify on stale branches/code
 
