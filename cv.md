@@ -3,7 +3,12 @@ layout: page
 title: Stuff I gone done
 ---
 
-##### Snowflake Software. January 2017 - Present
+##### Superawesome
+
+- Full stack engineer, enabling companies to advertise safely to kids.
+- Kafka, Aws, Node
+
+##### Snowflake Software. January 2017 - November 2018
 
 - Full stack (devops).
 - Improving communication in air traffic mangement. Taking multiple sources of information in the aviation industry, applying matching algorithms creating a central place for aviation data.
