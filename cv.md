@@ -5,8 +5,9 @@ title: Stuff I gone done
 
 ##### Superawesome
 
-- Full stack engineer, enabling companies to advertise safely to kids.
-- Kafka, Aws, Node
+- Engineering manager + Full stack developer
+- Product enables companies to advertise safely to kids.
+- Kafka, AWS, Node, TS, Angular
 
 ##### Snowflake Software. January 2017 - November 2018
 
