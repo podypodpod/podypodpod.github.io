@@ -3,7 +3,7 @@ layout: page
 title: Stuff I gone done
 ---
 
-##### Superawesome
+##### SuperAwesome. November 2018 - PResent
 
 - Engineering manager + Full stack developer
 - Product enables companies to advertise safely to kids.
