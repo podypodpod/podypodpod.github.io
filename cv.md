@@ -3,22 +3,23 @@ layout: page
 title: Stuff I gone done
 ---
 
-##### SuperAwesome. November 2018 - PResent
+##### SuperAwesome. November 2018 - Present
 
-- Engineering manager + Full stack developer
+- Engineering lead / Full stack developer
+- Trying to scale the tech, myself and the team
 - Product enables companies to advertise safely to kids.
-- Kafka, AWS, Node, TS, Angular
+- Kubernetes, Kafka, AWS, Node
 
 ##### Snowflake Software. January 2017 - November 2018
 
-- Full stack (devops).
+- Full stack
 - Improving communication in air traffic mangement. Taking multiple sources of information in the aviation industry, applying matching algorithms creating a central place for aviation data.
 - Providing this data via public APIs or as an in house solution. 
 - Using docker microservices running on kubernetes with kafka in between creating a pipeline for the data.
 
 Side projects at snowflake:
 
- - Hipchat acronym bot that will reply with the likely answers (aviation acronyms are particularily bad)
+ - Chat acronym bot that will reply with the likely answers (aviation acronyms are particularily bad)
  - Auto generating architecture diagram via YAML deployment files using DotGraph
  - Various scripts that will notify on stale branches/code
 
