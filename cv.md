@@ -3,11 +3,11 @@ layout: page
 title: Stuff I gone done
 ---
 
-##### SuperAwesome. November 2018 - Present
+##### Epic Games (SuperAwesome). November 2018 - Present
 
 - Engineering lead / Full stack developer
 - Trying to scale the tech, myself and the team
-- Product enables companies to advertise safely to kids.
+- Worked on multiple products to help keep kids safe e.g. parental verification and safe advertising
 - Kubernetes, Kafka, AWS, Node
 
 ##### Snowflake Software. January 2017 - November 2018
