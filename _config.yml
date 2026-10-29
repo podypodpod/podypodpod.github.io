@@ -1,17 +1,17 @@
 # Site Info
 title:              "podypodpod.github.io"
-description:        ""
+description:        "Hi I'm Dave. I build systems and teams, currently running KWS at Epic Games."
 google_verify:      # Put your Google Verification here
-google_analytics:   # Put your Google Analytics code
 
 # Author Info
-author_name:        "Heiswayi Nrird"
-author_email:       david@davidlomas.co.uk
+author_name:        "David Lomas"
+author_email:       davlomas3@gmail.com
 author_gravatar:    4d5595d5d5b6a046fbf6c55e09251999 # Gravatar md5 hash
 twitter_username:   dlomas20
 github_username:    podypodpod # GitHub username
 
 # Site Settings
+url:                "https://podypodpod.github.io"
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /notes/:title # Post permalink
 timezone:           Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -30,7 +30,7 @@ sass:
 # Other Params
 include:            [ "robots.txt" ]
 exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
-gems:
+plugins:
   - jekyll-sitemap
 
 compress_html:
