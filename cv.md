@@ -53,6 +53,6 @@ Side projects at snowflake:
 - Placement year in university
 - Dealt with security audits around server access in IBM
 
-##### See my [github](https://github.com/podypodpod) for other projects (mainly hackathon test projects, nothing serious)
+##### See my [github](https://github.com/podypodpod) for other projects
 
 ##### Or my [LinkedIn](https://www.linkedin.com/in/davidlomas1/) if you like that sort of thing
