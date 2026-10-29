@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stuff I gone done
+title: Stuff I've done
 ---
 
 ##### Epic Games. October 2020 - Present
