@@ -22,39 +22,36 @@ title: Stuff I've done
 
 ##### Snowflake Software. December 2016 - November 2018
 
-- Full stack
-- Improving communication in air traffic management. Taking multiple sources of information in the aviation industry, applying matching algorithms creating a central place for aviation data.
-- Providing this data via public APIs or as an in house solution. 
-- Using docker microservices running on kubernetes with kafka in between creating a pipeline for the data.
+- Full stack dev on a platform that pulls in aviation data from loads of different sources, matches it all up and gives air traffic management one central place for it
+- Mostly worked on the version deployed in air traffic control towers across the UAE, running in air-gapped rooms (so no "just SSH in and fix it")
+- Data served up via public APIs or as an on-site install
+- Java microservices in Docker on Kubernetes, with Kafka in between piping the data through
 
-Side projects at snowflake:
+Side projects at Snowflake:
 
- - Chat acronym bot that will reply with the likely answers (aviation acronyms are particularly bad)
- - Auto generating architecture diagram via YAML deployment files using DotGraph
- - Various scripts that will notify on stale branches/code
+- Auto-generated architecture diagrams straight from our YAML deployment files
+- Various scripts that nagged people about stale branches and code
 
 ##### CNS. May 2016 - December 2016
 
-- Java (Spring) development on a wide range of projects in the maritime industry
-- Real time event driven software
+- Java (Spring) dev on software that tracks shipping containers and what's in them, customs info included
+- Real time, event driven
 - Translating EDIFACT messages and talking to legacy government customs systems
 
 ##### IBM. September 2015 – May 2016
 
- - Full stack development for a SAAS API testing tool
- - Developing domain-driven backend implementing CQRS strategies in Java, using a micro-service approach
- - Developing front end using angular JS/html using model-view patterns
- - Implemented and developed full user features (front and back end) and delivered them in the first release of the product
+- Full stack dev on API Test, a SaaS tool for testing APIs
+- Java microservices backend using domain-driven design and CQRS
+- AngularJS front end
+- Built whole features end to end, front and back
 
-##### Independent Web Developer 2013 - 2015
+##### Independent Web Developer. 2013 - 2015
 
- - Creating web projects during university.
- - e.g. [nadineweston.com](http://nadineweston.com/) 
+- Built websites for people while at university, e.g. [nadineweston.com](http://nadineweston.com/)
 
-##### IBM - Identity & Access Management Analyst (June 2013 - June 2014)
+##### IBM - Identity & Access Management Analyst. June 2013 - June 2014
 
-- Placement year in university
-- Dealt with security audits around server access in IBM
+- University placement year doing security audits on server access
 
 ##### See my [github](https://github.com/podypodpod) for other projects
 
