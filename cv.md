@@ -3,6 +3,8 @@ layout: page
 title: Stuff I've done
 ---
 
+Engineering Director at Epic Games. Started out as a dev, now running the department behind KWS: 45 million verified users and over 100 billion requests a quarter.
+
 ##### Epic Games. October 2020 - Present
 
 - KWS Engineering Director since December 2025, running the department across 4 teams (~20 people)
@@ -12,11 +14,12 @@ title: Stuff I've done
 - Started out covering kids' privacy (COPPA, GDPR-K and friends), then branched out into privacy-preserving [age verification](https://www.kidswebservices.com/services/age-verification) across more age ranges. ID, card or face scan, and we don't keep any of it
 - Before that, Engineering Lead for 5 years: spun up new teams and grew the department to around 30 people at its peak
 - Still figuring out how to scale the tech, the team and myself, just at a much bigger scale now
+- These days it's TypeScript, Node and NestJS
 
 ##### SuperAwesome. November 2018 - October 2020
 
 - Joined KWS as Engineering Manager with a team of 3 engineers (where the 3 to 30 story starts)
-- Before that Engineering Lead on AwesomeAds, helping build the team to provide a way to advertise without tracking kids online
+- Before that Engineering Lead on AwesomeAds, leading a team of 7-8 building a way to advertise without tracking kids online
 - Started out as a full stack dev on AwesomeAds, making the internet safer for kids
 - SuperAwesome got bought by Epic Games, so here we are
 
