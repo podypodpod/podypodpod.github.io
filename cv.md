@@ -5,14 +5,17 @@ title: Stuff I've done
 
 ##### Epic Games. October 2020 - Present
 
-- KWS Engineering Director (December 2025 - Present), Engineering Lead before that
-- Building out the [Kids Web Services (KWS)](https://dev.epicgames.com/docs/kids-web-services) team to make kids online consent management easy
-- Still trying to scale the tech, myself and the team
-- Kubernetes, Kafka, AWS, Node
+- KWS Engineering Director since December 2025, running the department across 4 teams (~20 people)
+- [Kids Web Services (KWS)](https://dev.epicgames.com/docs/kids-web-services) handles parental consent and age verification for Epic's own games (Fortnite, Rocket League, anything on an Epic account) plus partners like Pokémon GO, EA, Sony, Riot and Innersloth (Among Us)
+- Grew our AgeGraph to 45 million pre-verified users
+- Handles over 100 billion settings requests a quarter, peaking at 83 billion in a single month (about 2.7 billion a day)
+- Started out covering kids' privacy (COPPA, GDPR-K and friends), then branched out into age verification across more age ranges
+- Before that, Engineering Lead for 5 years: spun up new teams and grew the department to around 30 people at its peak
+- Still figuring out how to scale the tech, the team and myself, just at a much bigger scale now
 
 ##### SuperAwesome. November 2018 - October 2020
 
-- Engineering Manager on KWS, a set of cloud tools for building safe, compliant stuff for kids
+- Joined KWS as Engineering Manager with a team of 3 engineers (where the 3 to 30 story starts)
 - Before that Engineering Lead on AwesomeAds, helping build the team to provide a way to advertise without tracking kids online
 - Started out as a full stack dev on AwesomeAds, making the internet safer for kids
 - SuperAwesome got bought by Epic Games, so here we are
