@@ -56,6 +56,10 @@ Side projects at Snowflake:
 
 - University placement year doing security audits on server access
 
+##### Manchester Metropolitan University. 2011 - 2015
+
+- BSc Computer Science, First Class Honours (with the IBM placement year in the middle)
+
 ##### See my [github](https://github.com/podypodpod) for other projects
 
 ##### Or my [LinkedIn](https://www.linkedin.com/in/davidlomas1/) if you like that sort of thing
