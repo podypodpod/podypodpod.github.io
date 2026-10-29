@@ -7,9 +7,9 @@ title: Stuff I've done
 
 - KWS Engineering Director since December 2025, running the department across 4 teams (~20 people)
 - [Kids Web Services (KWS)](https://dev.epicgames.com/docs/kids-web-services) handles parental consent and age verification for Epic's own games (Fortnite, Rocket League, anything on an Epic account) plus partners like Pokémon GO, EA, Sony, Riot and Innersloth (Among Us)
-- Grew our AgeGraph to 45 million pre-verified users
+- Grew our AgeGraph to 45 million pre-verified users: verify your age once and you're sorted on every other platform that uses KWS
 - Handles over 100 billion requests a quarter, peaking at 83 billion in a single month (about 2.7 billion a day)
-- Started out covering kids' privacy (COPPA, GDPR-K and friends), then branched out into age verification across more age ranges
+- Started out covering kids' privacy (COPPA, GDPR-K and friends), then branched out into privacy-preserving [age verification](https://www.kidswebservices.com/services/age-verification) across more age ranges. ID, card or face scan, and we don't keep any of it
 - Before that, Engineering Lead for 5 years: spun up new teams and grew the department to around 30 people at its peak
 - Still figuring out how to scale the tech, the team and myself, just at a much bigger scale now
 
